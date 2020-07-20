@@ -1,0 +1,189 @@
+{
+        "speakers": [
+            {
+                "speakerID": 37,
+                "speakerName": "Orrin Woodward",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/orrin_woodward.jpg"
+            },
+            {
+                "speakerID": 36,
+                "speakerName": "Laurie Woodward",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/laurie_woodward.jpg"
+            },
+            {
+                "speakerID": 6,
+                "speakerName": "Chris Brady",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/chris_brady.jpg"
+            },
+            {
+                "speakerID": 7,
+                "speakerName": "Terri Brady",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/terri_brady.jpg"
+            },
+            {
+                "speakerID": 11,
+                "speakerName": "George Guzzardo",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/george_guzzardo.jpg"
+            },
+            {
+                "speakerID": 12,
+                "speakerName": "Jill Guzzardo",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/jill_guzzardo.jpg"
+            },
+            {
+                "speakerID": 14,
+                "speakerName": "Dan Hawkins",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/dan_hawkins.jpg"
+            },
+            {
+                "speakerID": 15,
+                "speakerName": "Lisa Hawkins",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/lisa_hawkins.jpg"
+            },
+            {
+                "speakerID": 20,
+                "speakerName": "Bill Lewis",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/bill_lewis.jpg"
+            },
+            {
+                "speakerID": 21,
+                "speakerName": "Keisha Lewis",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/keisha_lewis.jpg"
+            },
+            {
+                "speakerID": 28,
+                "speakerName": "Kenyon Robson",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/kenyon_robson.jpg"
+            },
+            {
+                "speakerID": 9,
+                "speakerName": "Joce Dionne",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/joce_dionne.jpg"
+            },
+            {
+                "speakerID": 10,
+                "speakerName": "Dean Frey",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/dean_frey.jpg"
+            },
+            {
+                "speakerID": 13,
+                "speakerName": "Mark Haas",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/mark_haas.jpg"
+            },
+            {
+                "speakerID": 1,
+                "speakerName": "Raymond Abernathy",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/raymond_abernathy.jpg"
+            },
+            {
+                "speakerID": 2,
+                "speakerName": "Lyndon Bell",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/lyndon_bell.jpg"
+            },
+            {
+                "speakerID": 3,
+                "speakerName": "Ruth Bell",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/ruth_bell.jpg"
+            },
+            {
+                "speakerID": 4,
+                "speakerName": "Cassie Birtles",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/cassie_birtles.jpg"
+            },
+            {
+                "speakerID": 5,
+                "speakerName": "Kirk Birtles",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/kirk_birtles.jpg"
+            },
+            {
+                "speakerID": 8,
+                "speakerName": "Cynthia Dionne",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/cynthia_dionne.jpg"
+            },
+            {
+                "speakerID": 16,
+                "speakerName": "Greg Johnson",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/greg_johnson.jpg"
+            },
+            {
+                "speakerID": 17,
+                "speakerName": "Marie-Maud Laplanche",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/marie-maud_laplanche.jpg"
+            },
+            {
+                "speakerID": 18,
+                "speakerName": "Denis Leger",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/denis_leger.jpg"
+            },
+            {
+                "speakerID": 19,
+                "speakerName": "Lisa Leger",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/lisa_leger.jpg"
+            },
+            {
+                "speakerID": 22,
+                "speakerName": "Raylene Macnamara",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/raylene_macnamara.jpg"
+            },
+            {
+                "speakerID": 23,
+                "speakerName": "Wayne Macnamara",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/wayne_macnamara.jpg"
+            },
+            {
+                "speakerID": 24,
+                "speakerName": "Kristine Militello",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/kristine_militello.jpg"
+            },
+            {
+                "speakerID": 25,
+                "speakerName": "Marc Militello",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/marc_militello.jpg"
+            },
+            {
+                "speakerID": 26,
+                "speakerName": "Beth Morgan",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/beth_morgan.jpg"
+            },
+            {
+                "speakerID": 27,
+                "speakerName": "Steve Morgan",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/steve_morgan.jpg"
+            },
+            {
+                "speakerID": 29,
+                "speakerName": "Holger Spiewak",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/holger_spiewak.jpg"
+            },
+            {
+                "speakerID": 30,
+                "speakerName": "Lindsey Spiewak",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/lindsey_spiewak.jpg"
+            },
+            {
+                "speakerID": 31,
+                "speakerName": "Curtis Spolar",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/curtis_spolar.jpg"
+            },
+            {
+                "speakerID": 32,
+                "speakerName": "Debbie Spolar",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/debbie_spolar.jpg"
+            },
+            {
+                "speakerID": 33,
+                "speakerName": "Chris Swanson",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/chris_swanson.jpg"
+            },
+            {
+                "speakerID": 34,
+                "speakerName": "Larry Vanbuskirk",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/larry_vanbuskirk.jpg"
+            },
+            {
+                "speakerID": 35,
+                "speakerName": "Marsie Vanbuskirk",
+                "speakerImage": "https://main.secure.footprint.net//dnn/sc_images/speakers/marsie_vanbuskirk.jpg"
+            }
+        ]
+}
